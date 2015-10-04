@@ -1,0 +1,40 @@
+{
+  "name": "always-generator",
+  "version": "0.0.0",
+  "description": "Generatorify, basically, everything. You can create generator function from callback-style or synchronous function; sync function that returns child process, stream or observable; directly passed promise, stream or child process.",
+  "repository": "hybridables/always-generator",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "always-promise": "^1.1.1",
+    "sliced": "^1.0.1"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0",
+    "is-es6-generator-function": "^1.0.0",
+    "voa": "^0.1.1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "async",
+    "asynchronous",
+    "callback",
+    "child",
+    "fn",
+    "func",
+    "function",
+    "gen",
+    "generator",
+    "process",
+    "promise",
+    "stream",
+    "sync",
+    "synchronous"
+  ]
+}
