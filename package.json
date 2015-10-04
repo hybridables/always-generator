@@ -16,7 +16,7 @@
   "devDependencies": {
     "assertit": "^0.1.0",
     "is-es6-generator-function": "^1.0.0",
-    "voa": "^0.1.1"
+    "voa": "*"
   },
   "files": [
     "index.js"
